@@ -31,6 +31,10 @@ Free Groq keys allow only a few requests per minute. If you see a rate-limit mes
 
 Prefer coding? See `example_attack.py`.
 
+## Results
+
+- [Level 3 scope bypass — report and category assessment](results/README.md#level-3-scope-bypass--2026-11-14): reported recovery of two synthetic patients' MRNs and surnames through a count oracle, plus database cardinalities. Includes an assessment of all seven screenshot categories and the evidence limits.
+
 ## Rules
 
 - Attack only through messages. No hacking the server.
